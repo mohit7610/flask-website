@@ -1,10 +1,10 @@
 Creoleparser
-Flask
+Flask an amazing project
 Flask-OpenID
 Flask-SQLAlchemy
 Genshi
 Jinja2
-Pygments
+pygments
 SQLAlchemy
 Werkzeug
 Whoosh
