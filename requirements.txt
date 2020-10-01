@@ -4,7 +4,7 @@ Flask-OpenID
 Flask-SQLAlchemy
 Genshi
 Jinja2
-Pygments
+payments
 SQLAlchemy
 Werkzeug
 Whoosh
